@@ -35,7 +35,7 @@
 		},
 		"mongoURL": {
 			"description": "「mLab 的KEY」 ",
-			"required": true
+			"required": false
 		}
 	}
 }
